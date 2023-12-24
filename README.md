@@ -24,7 +24,7 @@ Quick Start:
 - Clone this repo.
 - Open in Thonny.
 - Edit htdocs/index.html to show your desired information.
-- Install phew library to Raspberry Pi Pico W.
-- Copy all it to your Raspberry Pi Pico W
+- Install micrpython-phew library/package to Raspberry Pi Pico W (I use Thonny, makes this quick and easy).
+- Copy all files to your Raspberry Pi Pico W.
 - Power it up however you like, have fun in your neighborhood or some public place.
 
