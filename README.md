@@ -1,6 +1,10 @@
 # rasperry-pi-pico-samizdat
 Anonymous, guerrilla publishing with a Raspberry Pi Pico and a library for WLAN Captive portal / Hotspot creation. 
 
+Why the name? 
+
+According to Wikipedia a samizdat is a "self-published work of dissident literature, which was clandestinely distributed in the former Soviet bloc countries."
+
 This project is inspired by an article in C't (a German computer magazine) 23/2033. 
 
 It will turn a Raspberry Pi Pico W into a WLAN Hotspot with a captive portal. The possible uses are many, but the one proposed in the article was to use it for a sort of "Guerilla publishing".  
