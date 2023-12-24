@@ -18,3 +18,13 @@ Possible uses (legality aside :) ):
 - Provide information in case of news and media outages or strict censorship.
 - Dead Letter Box (with encrypted content, of course) for intelligence agents.
 - Fun and guerrilla way of publishing something. 
+
+Quick Start: 
+
+- Clone this repo.
+- Open in Thonny.
+- Edit htdocs/index.html to show your desired information.
+- Install phew library to Raspberry Pi Pico W.
+- Copy all it to your Raspberry Pi Pico W
+- Power it up however you like, have fun in your neighborhood or some public place.
+
