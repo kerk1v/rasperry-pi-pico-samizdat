@@ -10,13 +10,15 @@ This project is inspired by an article in C't (a German computer magazine) 23/20
 It will turn a Raspberry Pi Pico W into a WLAN Hotspot with a captive portal. The possible uses are many, but the one proposed in the article was to use it for a sort of "Guerilla publishing".  
 A Raspberry Pi Pico W is a cheap device, at way under 10$/€ so if you are unable to retrieve your device after the battery has run out or if it gets lost, it won't be a big financial expense or loss. It can run for a couple of days on an 18650 Li-ion rechargeable battery or on 3 1,5V primary cells. 
 
+It will also work on other microcontrollers with WLAN and MicroPython available without changes, like an ESP32, ESP8266... 
+
 A quick summary: 
 
-- A Raspberry Pi Pico creates a WLAN.
+- A Raspberry Pi Pico (or chosen device) creates a WLAN.
 - Once a client connects to it, it will set itself as the destination of any DNS requests.
 - The index.html page is displayed, both on first connection or on any web request.
 
-Possible uses (legality aside :) ): 
+Possible uses (legality aside ;) ): 
 
 - Informational WLAN in a public location.
 - Provide information in case of news and media outages or strict censorship.
