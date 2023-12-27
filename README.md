@@ -32,3 +32,5 @@ Quick Start:
 - Copy all files to your Raspberry Pi Pico W.
 - Power it up however you like, have fun in your neighborhood or some public place.
 
+"Without privacy, you can't have anything for yourself. Saying you don't care about privacy because you have nothing to hide is like saying you don't care about free speech because you have nothing to say."<br>
+Edward Snowden
